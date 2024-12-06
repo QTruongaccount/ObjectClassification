@@ -1,3 +1,6 @@
 Bước 1: tải file từ đường link:https://github.com/QTruongaccount/ObjectClassification/tree/main và giải nén ra
-Bước 2 : Mở và chạy file bằng VSCode
-Bước 3 : Kết quả thực hiện 
+Bước 2 : Mở folder có tên ObjectClassification và chạy file main.py bằng VSCode
+Bước 3 : Sau khi chạy file main.py ta sẽ được kết quả.
+
+Lưu ý: Phải cài đặt Python mới chạy được file
+Ta có thể thay đổi kết quả bằng cách thay đổi những hình ảnh có trong folder images
