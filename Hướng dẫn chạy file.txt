@@ -1,0 +1,3 @@
+Bước 1: tải file từ đường link:https://github.com/QTruongaccount/ObjectClassification/tree/main và giải nén ra
+Bước 2 : Mở và chạy file bằng VSCode
+Bước 3 : Kết quả thực hiện 
